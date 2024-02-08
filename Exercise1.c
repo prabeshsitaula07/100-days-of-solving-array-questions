@@ -19,4 +19,5 @@ int main()
     {
         printf("%d\n", array_element[i]);
     }
+    return 0;
 }
